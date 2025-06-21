@@ -34,8 +34,8 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 1.  **Kloning repositori ini** (atau unduh *file* `fotoyu_uploader.py`):
 
     ```bash
-    git clone [https://github.com/nama-pengguna-anda/fotoyu-auto-uploader.git](https://github.com/nama-pengguna-anda/fotoyu-auto-uploader.git)
-    cd fotoyu-auto-uploader
+    git clone https://github.com/syaibar/Fotoyu-Auto-Uploader.git
+    cd Fotoyu-Auto-Uploader
     ```
 
 2.  **Instal pustaka Python yang diperlukan**:
