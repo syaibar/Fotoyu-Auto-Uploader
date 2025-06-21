@@ -88,11 +88,3 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki hal-hal berikut:
 ## Kontribusi
 
 Kontribusi disambut baik! Jika Anda menemukan *bug* atau memiliki saran untuk perbaikan, silakan buka *issue* atau buat *pull request*.
-
----
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat *file* `LICENSE` untuk detail lebih lanjut.
-
----
